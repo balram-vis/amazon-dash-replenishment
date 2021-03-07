@@ -509,3 +509,4 @@ When your implementation is completed, and you have tested your Lambda function,
     4.  Use the product so that the consumable level drops below the low-level threshold.
 
 
+**Note:** https://developer.amazon.com/dash-services
