@@ -509,7 +509,7 @@ When your implementation is completed, and you have tested your Lambda function,
     4.  Use the product so that the consumable level drops below the low-level threshold.
 
 
-> Events to be sent to the URL -  https://api.eu.amazonalexa.com/v3/events (Based on regions)
-> Access token to get from Alexa - https://api.amazon.com/auth/o2/token 
+> - Events to be sent to the URL -  https://api.eu.amazonalexa.com/v3/events (Based on regions)
+> - Access token to get from Alexa - https://api.amazon.com/auth/o2/token 
 
 **Note:** https://developer.amazon.com/dash-services
